@@ -1,0 +1,17 @@
+- var let const
+  -- the difference ✔
+  --window object ✔
+  --browser context api
+  -- window
+  -- stack (normal stack as we arrange plates)
+  -- heap (intermediate value of sum is stored in heap memory which can be used later{1+2+3+4+5+6} computer will store 1+2=3, then 3+3=6, then so on int the heap memory and print the final answer.) // jitne bhi variables ya data hum banate hai use kahi na khai store to karna padta hai uske liye hota hai heap memory.
+  -- execution context
+  -- lexical environment
+  -- how to copy reference value
+  -- truthy vs falsy
+  -- switch
+  --foreach forin forof do-while
+  -- callback functions
+  -- how arrays are made behind the scenes
+  --how we can make negative indexes in js
+  --- how to delete object prop
